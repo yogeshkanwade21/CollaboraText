@@ -20,10 +20,6 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 
-# Compiled CSS or SCSS (if using CSS preprocessors)
-*.css
-*.scss
-
 # Editor backup files
 *~
 
